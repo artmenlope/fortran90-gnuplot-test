@@ -1,0 +1,3 @@
+set hidden3d
+set pm3d
+splot  'datafile.dat' 
